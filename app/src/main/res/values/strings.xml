@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Magnetic Morse</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="azimuthHeader">Suuntatiedot</string>
 
 </resources>
